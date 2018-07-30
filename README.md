@@ -5,3 +5,5 @@
 http://www.baeldung.com/spring-cloud-netflix-hystrix
 
 https://www.safaribooksonline.com/library/view/master-microservices-with/9781789132779/
+
+https://github.com/krzysztofkicinger/udemy-microservices-with-spring-cloud
